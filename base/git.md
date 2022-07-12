@@ -11,3 +11,4 @@ git commit -m 'add base.php'
 git push
 git pull 拉别人的分支
 git checkout base.php 恢复文件
+![](images/2022-07-13-00-05-19.png)
