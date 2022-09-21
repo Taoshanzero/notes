@@ -1,4 +1,4 @@
-##基础
+## 基础
 配置用户名
 $ git config --global user.name '*github用户名*'
 
